@@ -1,0 +1,7 @@
+D:\C#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe.config
+D:\C#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe
+D:\C#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.pdb
+D:\C#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.csprojAssemblyReference.cache
+D:\C#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.csproj.CoreCompileInputs.cache
+D:\C#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.exe
+D:\C#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\bin\Debug\Self Assessment Lab.exe.config
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\bin\Debug\Self Assessment Lab.exe
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\bin\Debug\Self Assessment Lab.pdb
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\obj\Debug\Self Assessment Lab.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\obj\Debug\Self Assessment Lab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\obj\Debug\Self Assessment Lab.exe
+C:\Users\ASUS\source\repos\Self Assessment Lab\Self Assessment Lab\obj\Debug\Self Assessment Lab.pdb

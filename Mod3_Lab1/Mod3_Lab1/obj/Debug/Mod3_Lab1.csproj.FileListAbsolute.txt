@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe.config
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.pdb
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.exe
+C:\Users\ASUS\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.pdb
